@@ -4,4 +4,4 @@
 
 [submodule "{{cookiecutter.project_slug}}/vue-basic-template"]
 	path = {{cookiecutter.project_slug}}/vue-basic-template
-	url = https://github.com/jtydhr88/Hanzo Studio_frontend_vue_basic
+	url = https://github.com/jtydhr88/HanzoStudio_frontend_vue_basic
