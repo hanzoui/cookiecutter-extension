@@ -1,8 +1,8 @@
 {
-  // Required - change /PATH/TO to the absolute path to ComfyUI.  Windows e.g.: D:/My Folder/ComfyUI/
-  // This pulls in ComfyUI Python types for the extension.
+  // Required - change /PATH/TO to the absolute path to Hanzo Studio.  Windows e.g.: D:/My Folder/Hanzo Studio/
+  // This pulls in Hanzo Studio Python types for the extension.
   "python.analysis.extraPaths": [
-    "/PATH/TO/ComfyUI/",
-    "/PATH/TO/ComfyUI/custom_nodes/"
+    "/PATH/TO/Hanzo Studio/",
+    "/PATH/TO/Hanzo Studio/custom_nodes/"
   ],
 }

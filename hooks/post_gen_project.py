@@ -92,10 +92,10 @@ def setup_project_structure():
             ]
 
             replacements = {
-                "ComfyUI React Extension Template": "{{cookiecutter.project_name}}",
-                "ComfyUI-React-Extension-Template": "{{cookiecutter.project_slug}}",
-                "comfyui-example-react-extension": "{{cookiecutter.project_slug}}",
-                "Comfy-Org": "{{cookiecutter.github_username}}",
+                "Hanzo Studio React Extension Template": "{{cookiecutter.project_name}}",
+                "Hanzo Studio-React-Extension-Template": "{{cookiecutter.project_slug}}",
+                "hanzo-studio-example-react-extension": "{{cookiecutter.project_slug}}",
+                "hanzoui": "{{cookiecutter.github_username}}",
                 "MIT": "{{cookiecutter.open_source_license}}",
                 '"version": "0.1.0"': '"version": "{{cookiecutter.version}}"',
             }
@@ -129,7 +129,7 @@ def setup_project_structure():
             ]
 
             replacements = {
-                "ComfyUI Frontend Vue Basic": "{{cookiecutter.project_name}}",
+                "Hanzo Frontend Vue Basic": "{{cookiecutter.project_name}}",
                 "MIT License": "{{cookiecutter.open_source_license}}",
             }
 
