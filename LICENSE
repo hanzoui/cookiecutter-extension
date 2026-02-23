@@ -1,7 +1,10 @@
+Copyright (c) 2025 Hanzo AI, Inc.
+Licensed under the GNU General Public License v3.0
+
 GNU GENERAL PUBLIC LICENSE
                       Version 3, 29 June 2007
 
-    cookiecutter-comfy-extension: A cookiecutter template for writing a ComfyUI custom node extension
+    cookiecutter-comfy-extension: A cookiecutter template for writing a Hanzo Studio custom node extension
     Copyright (C) 2024  Max Klein
 
     This program is free software: you can redistribute it and/or modify

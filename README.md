@@ -2,7 +2,7 @@
 
 ## Get started writing custom nodes in one step without setting up a ton of Python project config.
 
-An opinionated way to develop ComfyUI custom nodes. Uses cookiecutter to scaffold a python project.
+An opinionated way to develop Hanzo Studio custom nodes. Uses cookiecutter to scaffold a python project.
 
 This template helps you
 
@@ -33,7 +33,7 @@ This template helps you
   ```
 - Run `cookiecutter` with this as local template:
   ```bash
-  git clone https://github.com/Comfy-Org/cookiecutter-comfy-extension
+  git clone https://github.com/hanzoui/cookiecutter-extension
   cd cookiecutter-comfy-extension
   git submodule update --init --recursive
   cookiecutter .
@@ -41,7 +41,7 @@ This template helps you
 
 ## Features
 
-The resulting ComfyUI node extension project will automatically come with a few neat features:
+The resulting Hanzo Studio node extension project will automatically come with a few neat features:
 
 - Support for Ruff linter and various recommended rules
 - A pre-commit hook for the Ruff linter
@@ -49,5 +49,5 @@ The resulting ComfyUI node extension project will automatically come with a few 
   - If selected, `web` will also be added to the project's `MANIFEST.in` to ensure that any non-python code in `web` will also be correctly installed
 - Testing via PyTest (check the `tests/` directory)
 - A Github Action that will automatically run any unit tests as part of Pull Requests made against your project
-- A Github Action to diff your changes for backwards incompatible changes: (node-diff)[https://github.com/Comfy-Org/node-diff]
-- A Github Action to publish to the Comfy Registry
+- A Github Action to diff your changes for backwards incompatible changes: (node-diff)[https://github.com/hanzoui/node-diff]
+- A Github Action to publish to the hanzo registry
