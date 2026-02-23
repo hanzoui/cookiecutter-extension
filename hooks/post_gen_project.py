@@ -93,7 +93,7 @@ def setup_project_structure():
 
             replacements = {
                 "Hanzo Studio React Extension Template": "{{cookiecutter.project_name}}",
-                "Hanzo Studio-React-Extension-Template": "{{cookiecutter.project_slug}}",
+                "HanzoStudio-React-Extension-Template": "{{cookiecutter.project_slug}}",
                 "hanzo-studio-example-react-extension": "{{cookiecutter.project_slug}}",
                 "hanzoui": "{{cookiecutter.github_username}}",
                 "MIT": "{{cookiecutter.open_source_license}}",

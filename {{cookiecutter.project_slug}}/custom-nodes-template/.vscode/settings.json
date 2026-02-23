@@ -1,8 +1,8 @@
 {
-  // Required - change /PATH/TO to the absolute path to Hanzo Studio.  Windows e.g.: D:/My Folder/Hanzo Studio/
+  // Required - change /PATH/TO to the absolute path to Hanzo Studio.  Windows e.g.: D:/My Folder/HanzoStudio/
   // This pulls in Hanzo Studio Python types for the extension.
   "python.analysis.extraPaths": [
-    "/PATH/TO/Hanzo Studio/",
-    "/PATH/TO/Hanzo Studio/custom_nodes/"
+    "/PATH/TO/HanzoStudio/",
+    "/PATH/TO/HanzoStudio/custom_nodes/"
   ],
 }

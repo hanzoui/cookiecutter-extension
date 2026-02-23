@@ -9,7 +9,7 @@
 
 1. Install [Hanzo Studio](https://docs.hanzo.ai/get_started).
 1. Install [Hanzo Manager](https://github.com/ltdrdata/Hanzo Manager)
-1. Look up this extension in Hanzo Manager. If you are installing manually, clone this repository under `Hanzo Studio/custom_nodes`.
+1. Look up this extension in Hanzo Manager. If you are installing manually, clone this repository under `HanzoStudio/custom_nodes`.
 1. Restart Hanzo Studio.
 
 # Features
