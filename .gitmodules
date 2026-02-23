@@ -1,6 +1,6 @@
 [submodule "{{cookiecutter.project_slug}}/react-extension-template"]
 	path = {{cookiecutter.project_slug}}/react-extension-template
-	url = https://github.com/hanzoui/studio-React-Extension-Template
+	url = https://github.com/hanzoui/react-extension-template
 
 [submodule "{{cookiecutter.project_slug}}/vue-basic-template"]
 	path = {{cookiecutter.project_slug}}/vue-basic-template
